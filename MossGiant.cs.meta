@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f36698274a35e9049923bf9f29479259
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointA: {instanceID: 0}
+  - pointB: {instanceID: 0}
+  - diamondPrefab: {fileID: 5561176959868710441, guid: 23ff18b42459d3748b5dcd222ea99d06,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
